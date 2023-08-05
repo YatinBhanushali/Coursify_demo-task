@@ -1,0 +1,19 @@
+.prad{
+    text-align: center;
+    box-shadow:hsl(0, 0%, 80%) 0 0 16px;
+	background-color: #fff;
+	border-radius: 4px;
+	padding: 10px;
+    border: 0.1px solid gray;
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+.prad h6{
+    opacity: 0.8;
+}
+
+.prad span{
+    background-color:aliceblue;
+    padding: 2px;
+    border-radius: 4px;
+}
